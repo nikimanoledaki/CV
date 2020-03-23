@@ -1,6 +1,10 @@
 ## Niki Manoledaki
 
-I am a full-stack Ruby and JavaScript software developer. Sometimes I write about new technologies that I try out on my [Medium blog](https://medium.com/@niki.manoledaki). I love solving problems, which is why I developed a warehouse management application for NGOs that distribute donations in refugees camps in Greece prior to Makers. I recently graduated from King's College London with a Bachelor's degree in International Relations.
+A language-agnostic junior software engineer who loves to solves puzzles.
+
+## Background 
+
+Prior to Makers, I developed a warehouse management solution for NGOs that distribute donations in refugees camps in Greece. I recently graduated from King's College London with a Bachelor's degree in International Relations.
 
 ## Skills
 
@@ -34,14 +38,16 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### BA (Hons) International Relations, King's College London (9/2015 to 6/2019)
-- Wrote a dissertation about the sources of gender bias in machine learning data through a case study of an automated hiring tool developed by Amazon that devalued women’s CVs.
-- Achieved an overall grade of 78% in my third-year Cybersecurity module for my essays on the spyware industry and the use of Microsoft’s PhotoDNA to combat human trafficking.
-- Achieved an overall final grade of 67% (High 2:1).
+#### King's College London (9/2015 to 6/2019)
+- Subject: BA (Hons) International Relations
+- Wrote a dissertation about bias in machine learning through a case study of an automated hiring tool developed by Amazon that devalued women’s resumes.
+- Achieved a grade of 78% in my third-year Cybersecurity module for my case study essays on the spyware industry and also the use of Microsoft’s PhotoDNA to combat human trafficking.
+- Grade: 67% (High 2:1)
 
-#### Any other qualifications
-
-That in some arguable way make you a better software developer or well-rounded person
+#### The London School of Economics and Political Science (LSE) (7/2019 - 8/2019)
+- Subject: ME100 Introduction to Calculus
+- Through this Calculus course, I explored mathematical tools such as differentiation, optimization, and integration necessary for further study in statistics, data analysis, economics, and finance.
+- Grade: 70% (First)
 
 ## Experience
 
@@ -60,4 +66,5 @@ That in some arguable way make you a better software developer or well-rounded p
 - Partnered with initiatives such as Coursera for Refugees, Kiron University and Edraak to launch online education initiatives for people from displaced backgrounds residing at Elpida, a refugee camp in Northern Greece.
 
 ## Hobbies
-I love learning new languages - I am fluent in French, Greek, and English, studied Mandarin Chinese for 6 years, and speak conversational Spanish and Catalan.
+- Learning new languages: fluent in French, Greek, and English, studied Mandarin Chinese for 6 years, conversational in Spanish, and learning Catalan!
+- Meetups: AI for Good, AI & JavaScript, London Gophers, Microsoft Reactor events.

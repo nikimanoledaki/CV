@@ -83,5 +83,5 @@ _Online Education Lead_
 
 ## Hobbies
 
-**Learning new languages.** Fluent in French, Greek, and English, studied Mandarin Chinese for 6 years, conversational in Spanish, learning Catalan.
+**Learning new languages.** Fluent in French, Greek, and English, studied Mandarin Chinese for 6 years, conversational in Spanish, learning Catalan.</br>
 **Attending Meetups** e.g. AI for Good, AI & JavaScript, London Gophers, Microsoft Reactor events

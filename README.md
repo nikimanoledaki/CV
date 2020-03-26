@@ -3,23 +3,23 @@
 [Background](#background) | [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies](#hobbies) | [LinkedIn](https://www.linkedin.com/in/niki-manoledaki-9b505111b/) | [Blog](https://medium.com/@niki.manoledaki)
 
 ## Introduction
-I have wanted to become a software engineer for the past 4 years, but I had to finish my BA degree in International Relations first. In the meantime, I took every opportunity to learn about technology. 
+I have wanted to become a software engineer for the past 4+ years, which I was finally able to do upon finishing my bachelor's degree. In the meantime, I took every opportunity to learn about technology. I am ambitious and excited to start my career in this creative and innovative field.
 
 ## Background
 
-### Non-Governmental Organisations
-### Cybersecurity Theory
-### Public Relations
+I have 6+ years of experience with NGOs. I worked for grassroots that operate in refugee camps in Greece for a year. Upon returning to university in London, I co-founded Boxwise, a warehouse management application for NGOs that distribute donations in refugee camps. At the moment, the application is used in 7 refugee camps in Greece and services over ten thousand people. 
+
+Last July, I graduated from King's College London with a bachelor's degree in International Relations. I wrote a dissertation about the societal impact of bias in machine learning. I also completed courses Cybersecurity and in Calculus while at university.
 
 ## Projects
-Here are some of the projects I've worked on.
+Here are some of the projects I have worked on.
 
 | Name             |                                          Description                                           | Timeframe |                                                                                Technology                                                                                 |
 | ---------------- | :--------------------------------------------------------------------------------------------: | :-------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | Bank App         |                         A program with simple banking functionalities.                         |  2 days   |                                                                           Ruby, RSpec (testing)                                                                           |
 | Bookmark Manager |                            A web application for storing bookmarks                             |  5 days   |                                                               Ruby, Rspec (testing), PostgreSQL (database)                                                                |
 | Catbook          |                                 A clone of Facebook, for cats.                                 |  2 weeks  | Ruby, Ruby on Rails, Devise (user authentication), RSpec & Capybara (testing), Travis (for CI/CD), Heroku (deployment), Rubocop (code quality), SimpleCov (test coverage) |
-| FinBot           | API for Ubb, a chatbot that trains a machine learning model and teaches about personal finance |  2 weeks  |                                                                                    $12                                                                                    |
+| FinBot           | API for Ubb, a chatbot that trains a machine learning model and teaches about personal finance |  2 weeks  |                                           Python, Django (framework), unittest (testing), NLTK & TensorFlow (machine learning)                                            |
 
 ## Skills
 
@@ -78,7 +78,7 @@ _Distribution Manager_
 **Together for Better Days** (8/2016 to 12/2016)  
 _Online Education Lead_
 
-- Partnered with Coursera for Refugees to launch online education initiatives for people from displaced backgrounds residing at Elpida, a refugee camp in Northern Greece.
+- Sourced donated laptops then partnered with Coursera for Refugees to launch online education initiatives for people from displaced backgrounds residing at Elpida, a refugee camp in Northern Greece.
 
 ## Hobbies
 

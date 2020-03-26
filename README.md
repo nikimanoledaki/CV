@@ -3,7 +3,7 @@
 [Background](#background) | [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies](#hobbies) | [LinkedIn](https://www.linkedin.com/in/niki-manoledaki-9b505111b/) | [Blog](https://medium.com/@niki.manoledaki)
 
 ## Introduction
-I am an ambitious junior developer specializing in JavaScript and Ruby. I have wanted to learn how to code for the past 4+ years and, in the meantime, took every opportunity to learn more about the field. Now that I've graduated from Makers, I am excited to start my career in this fast-paced, innovative and creative field.
+I am an ambitious junior developer specializing in JavaScript and Ruby. I have wanted to learn how to code for the past 4+ years and, in the meantime, took every opportunity to learn more about the field. Now that I've graduated from Makers, I am excited to start my career and join a company that embodies everything that I love about this fast-paced, innovative and creative industry.
 
 ## Background
 
@@ -24,7 +24,7 @@ Here are some of the projects I have worked on.
 ## Skills
 
 #### Motivated Self Starter
-During the prototype days of Boxwise, I pitched the prototype at competitions. I was a finalist for the **Change-Maker Award** from the King’s College Entrepreneurship Institute. My team also received the **European Youth Award** in the category Managing Life.
+During the early days of Boxwise, I had to pitch our prototype at competitions and convince the judges that this was something worth investing in. I was a finalist for the **Change-Maker Award** from the King’s College Entrepreneurship Institute. My team also received the **European Youth Award** in the category Managing Life. These investments helped me start something I believe in.
 
 I wrote a Medium article about [getting started with Machine Learning](https://medium.com/analytics-vidhya/machine-learning-for-beginners-84c23e090b18). I set up an AWS EC2 machine learning instance to learn more about Keras models and Jupyter notebooks.
 

@@ -3,7 +3,7 @@
 [Background](#background) | [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies](#hobbies) | [LinkedIn](https://www.linkedin.com/in/niki-manoledaki-9b505111b/) | [Blog](https://medium.com/@niki.manoledaki)
 
 ## Introduction
-I am an ambitious junior developer specializing in JavaScript and Ruby. I have wanted to learn how to code for the past 4+ years and, in the meantime, took every opportunity to learn more about the field.
+I am an ambitious junior developer specializing in JavaScript and Ruby. I have wanted to learn how to code for the past 4+ years and, in the meantime, took every opportunity to learn more about the field. Now that I've graduated from Makers, I am excited to start my career in this fast-paced, innovative and creative field.
 
 ## Background
 

@@ -7,7 +7,7 @@ I am an ambitious junior developer specializing in JavaScript and Ruby. I have w
 
 ## Background
 
-I have over 5 years of work experience with non-profit organisations. I worked on the ground in refugee camps in Greece for a year. Upon returning to London, I co-founded Boxwise, a warehouse management application for NGOs that distribute donations in refugee camps. At the moment, it is used in 7 locations in Greece and services over ten thousand people. 
+Prior to Makers, I co-founded Boxwise, a warehouse management application for NGOs that distribute donations in refugee camps. At the moment, it is used in 7 locations in Greece and services over ten thousand people. 
 
 Last July, I graduated from King's College London with a bachelor's degree in International Relations. I wrote a dissertation about the societal impact of bias in machine learning and completed courses in Cybersecurity and Calculus.
 

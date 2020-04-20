@@ -47,7 +47,7 @@ I studied International Relations because I wanted to find solutions to global c
 **Testing:** RSpec, Capybara, Jasmine, Jest, unittest</br>
 **Databases:** PostgreSQL</br>
 **Distributed Systems & Networking:** Apache Kafka, Git, Unix systems</br>
-**Deployment:** Travis CI, Heroku, AWS EC2, Kubernetes
+**Deployment:** Travis CI, Heroku, AWS EC2, Docker
 
 **King's College London** (9/2015 to 6/2019) </br>
 _BA (Hons) International Relations_

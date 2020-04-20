@@ -58,7 +58,7 @@ I studied International Relations because I wanted to find solutions to global c
 _BA (Hons) International Relations_
 
 - Wrote a dissertation about bias in machine learning through a case study of a hiring tool developed by Amazon that devalued women’s CVs.
-- Achieved a grade of 78% in my third-year Cybersecurity module for my case study essays on the spyware industry and the use of Microsoft’s PhotoDNA to combat human trafficking.
+- Achieved the highest grade in my third-year Cybersecurity module on my case study essays on the spyware industry (80%).
 - Grade: 67% (High 2:1)
 
 **The London School of Economics and Political Science** (7/2019 to 8/2019) </br>

@@ -45,6 +45,7 @@ I studied International Relations because I wanted to find solutions to global c
 **Languages:** Ruby, JavaScript, Python, CSS/HTML </br>
 **Frameworks:** Ruby on Rails, Sinatra, Django, React</br>
 **Testing:** RSpec, Capybara, Jasmine, Jest, unittest</br>
+**Machine Learning:** TensorFlow, Jupyter Notebook</br>
 **Databases:** PostgreSQL</br>
 **Distributed Systems & Networking:** Apache Kafka, Git, Unix systems</br>
 **Deployment:** Travis CI, Heroku, AWS EC2, Docker

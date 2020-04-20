@@ -7,7 +7,7 @@
 
 [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies](#hobbies) | [LinkedIn](https://www.linkedin.com/in/niki-manoledaki-9b505111b/) | [Blog](https://medium.com/@niki.manoledaki)
 
-I am a full-stack junior software engineer who specializes in Ruby, JavaScript, and Python, and enjoys writing high-quality code. I graduated from Makers and King’s College London. I have experience with data science and also co-founded an open-source warehouse management application used in refugee camps.
+I am a full-stack junior software engineer who specializes in Ruby, JavaScript, and Python, and enjoys writing high-quality code. I graduated from Makers Academy and King’s College London. I have experience with data science and co-founded an open-source warehouse management application for refugee camps.
 
 ## Projects
 Here are some of the projects I have worked on.
@@ -46,8 +46,8 @@ I studied International Relations because I wanted to find solutions to global c
 **Frameworks:** Ruby on Rails, Sinatra, Django, React</br>
 **Testing:** RSpec, Capybara, Jasmine, Jest, unittest</br>
 **Databases:** PostgreSQL</br>
-**Systems & Networking:** Git, Unix systems</br>
-**Deployment:** Travis CI, Heroku, AWS EC2
+**Distributed Systems & Networking:** Apache Kafka, Git, Unix systems</br>
+**Deployment:** Travis CI, Heroku, AWS EC2, Kubernetes
 
 **King's College London** (9/2015 to 6/2019) </br>
 _BA (Hons) International Relations_

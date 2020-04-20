@@ -5,7 +5,7 @@
 <a href="https://sourcerer.io/nikimanoledaki"><img src="https://img.shields.io/badge/CSS-161%20commits-orange.svg" alt=""></a> 
 <a href="https://sourcerer.io/nikimanoledaki"><img src="https://img.shields.io/badge/Python-74%20commits-orange.svg" alt=""></a>
 
-[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies](#hobbies) | [LinkedIn](https://www.linkedin.com/in/niki-manoledaki-9b505111b/) | [Blog](https://medium.com/@niki.manoledaki)
+[Projects](#projects) | [Technologies & Skills](#technologies--skills) | [Education](#education) | [Experience](#experience) | [Hobbies](#hobbies) | [LinkedIn](https://www.linkedin.com/in/niki-manoledaki-9b505111b/) | [Blog](https://medium.com/@niki.manoledaki)
 
 I am a full-stack junior software engineer who specializes in Ruby, JavaScript, and Python, and enjoys writing high-quality code. I graduated from Makers Academy and King’s College London. I have experience with data science and co-founded an open-source warehouse management application for refugee camps.
 
@@ -19,28 +19,7 @@ Here are some of the projects I have worked on.
 | [Catbook](https://github.com/nikimanoledaki/acebook-catbook-inc)                                            |             A clone of Facebook, for cats. This RESTful API was created with Ruby on Rails, HTML, CSS, as well as agile practices such as stand-ups, retros, sprints, and Trello.             |  2 weeks  | Ruby, Ruby on Rails, CSS, Devise (user authentication), RSpec & Capybara (testing), Travis (for CI/CD), Heroku (deployment), Rubocop (code quality), SimpleCov (test coverage) |
 | FinBot [API](https://github.com/nikimanoledaki/finbot-api) & [UI](https://github.com/nikimanoledaki/finbot) | My final project at Makers, a chatbot to improve financial literacy that answers questions about personal finance. We used React, Django, TensorFlow, and TravisCI, among other technologies. |  2 weeks  |                                              Python, Django (framework), unittest (testing), NLTK & TensorFlow (machine learning)                                              |
 
-## Skills
-
-#### Motivated Self Starter
-During the early days of Boxwise, I had to pitch our prototype at competitions and convince the judges that this was something worth investing in. I was a finalist for the **Change-Maker Award** from the King’s College Entrepreneurship Institute. My team also received the **European Youth Award** in the category Managing Life. These investments helped me start something I believe in.
-
-I wrote a Medium article about [getting started with Machine Learning](https://medium.com/analytics-vidhya/machine-learning-for-beginners-84c23e090b18). I set up an AWS EC2 machine learning instance to learn more about Keras models and Jupyter notebooks.
-
-#### Communication
-
-I pitched my idea for an automated inventory management tool for NGOs in front of hundreds of people at the **Techfugee Summit** at Station F in Paris in 2017, which is how I formed my team of open-source developers. People who felt moved by my speech came up to me after my pitch.
-
-During Makers, I came up with an idea for a **chatbot that teaches people about personal finance and uses machine learning** in the backend. My peers and I formed a team and successfully made it happen.
-  
-#### Problem Solver
-
-During the second group project at Makers, I realised that the group's commit history was uneven. I proposed that we use a **git co-authoring tool** so that both people in a pair can receive credit.
-
-I studied International Relations because I wanted to find solutions to global challenges. I realised that technology is a great vector for large-scale problem-solving. Similarly, programming is about solving microscale puzzles continuously.
-
-## Education
-
-**Makers Academy** (12/2019 to 3/2020)
+## Technologies & Skills
 
 **Languages:** Ruby, JavaScript, Python, CSS/HTML </br>
 **Frameworks:** Ruby on Rails, Sinatra, Django, React</br>
@@ -49,6 +28,32 @@ I studied International Relations because I wanted to find solutions to global c
 **Databases:** PostgreSQL</br>
 **Distributed Systems & Networking:** Apache Kafka, Git, Unix systems</br>
 **Deployment:** Travis CI, Heroku, AWS EC2, Docker
+
+#### Innovation
+During the early days of Boxwise, I had to pitch our prototype at competitions and convince the judges that this was something worth investing in. I was a finalist for the **Change-Maker Award** from the King’s College Entrepreneurship Institute. My team also received the **European Youth Award** in the category Managing Life. These investments helped me start something I believe in.
+
+#### Self-Learning
+I am an avid and fast learner. I follow new books from publications such as O'Reilly and Manning closely and wrote a Medium article about [getting started with Machine Learning](https://medium.com/analytics-vidhya/machine-learning-for-beginners-84c23e090b18). In order to do this, I had to set up an AWS EC2 machine learning instance, through which I learned about Keras models and Jupyter notebooks.
+
+#### Communication
+
+I enjoy speaking in public. For example, I pitched my idea for an automated inventory management tool for NGOs in front of hundreds of people and industry leaders at the **Techfugee Summit** at Station F in Paris in 2017, which is how I formed my team of open-source developers. People who felt moved by my speech came up to me after my pitch.
+
+#### Teamwork
+
+During Makers, I came up with an idea for a **chatbot that teaches people about personal finance and uses machine learning** in the backend. It was based on the idea of empowering people through financial literacy. My peers and I formed a team and successfully made it happen. I am always there for my peers to listen and motivate them because I strongly stand by the conviction that, in a team, no one should be left behind.
+  
+#### Problem Solving
+
+During the second group project at Makers, I realised that the group's commit history was uneven. I proposed that we use a **git co-authoring tool** so that both people in a pair can receive credit.
+
+I studied International Relations because I wanted to find solutions to global challenges. I realised that technology is a great vector for large-scale problem-solving. Similarly, programming is about solving microscale puzzles continuously.
+
+## Education
+
+**Makers Academy** (12/2019 to 3/2020)
+- Graduated from the Software Development course at Makers Academy.
+- Developed an industry-level technical and collaborative skillset through Test-Driven Development (TDD), Object-Oriented Design (OOD) SOLID principles, and XP/Agile methodologies.
 
 **King's College London** (9/2015 to 6/2019) </br>
 _BA (Hons) International Relations_

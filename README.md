@@ -7,25 +7,24 @@
 
 [Projects](#projects) | [Technologies & Skills](#technologies--skills) | [Education](#education) | [Experience](#experience) | [Hobbies](#hobbies) | [LinkedIn](https://www.linkedin.com/in/niki-manoledaki-9b505111b/) | [Blog](https://medium.com/@niki.manoledaki)
 
-I am a full-stack junior software engineer who specializes in Ruby, JavaScript, and Python, and enjoys writing high-quality code. I graduated from Makers Academy and King’s College London. I have experience with data science and co-founded an open-source warehouse management application for refugee camps.
+I am a full-stack software engineer with experience using Ruby, JavaScript, and Python to write high-quality code and build fully-tested services. I co-founded an open-source warehouse management application used in refugee camps because I am passionate about tech for good. I also have some experience with UX, cybersecurity, and machine learning. I graduated from Makers Academy and King’s College London.
 
 ## Projects
-Here are some of the projects I have worked on.
 
-| Name                                                                                                        |                                                                                          Description                                                                                          | Timeframe |                                                                                   Technology                                                                                   |
-| ----------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| [Bank App](https://github.com/nikimanoledaki/bank)                                                          |                      The model logic for simple banking functionalities built in Ruby, which showcases my skills in Ruby, OOD core principles, testing, and refactoring.                      |  2 days   |                                                    Ruby, RSpec (testing), Rubocop (code quality), SimpleCov (test coverage)                                                    |
-| [Catbook](https://github.com/nikimanoledaki/acebook-catbook-inc)                                            |             A clone of Facebook, for cats. This RESTful API was created with Ruby on Rails, HTML, CSS, as well as agile practices such as stand-ups, retros, sprints, and Trello.             |  2 weeks  | Ruby, Ruby on Rails, CSS, Devise (user authentication), RSpec & Capybara (testing), Travis (for CI/CD), Heroku (deployment), Rubocop (code quality), SimpleCov (test coverage) |
-| FinBot [API](https://github.com/nikimanoledaki/finbot-api) & [UI](https://github.com/nikimanoledaki/finbot) | My final project at Makers, a chatbot to improve financial literacy that answers questions about personal finance. We used React, Django, TensorFlow, and TravisCI, among other technologies. |  2 weeks  |                                              Python, Django (framework), unittest (testing), NLTK & TensorFlow (machine learning)                                              |
+| Name                                                                                                        |                                                                                                                        Description                                                                                                                         | Timeframe |                                                                               Technology                                                                               |
+| ----------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| [Data Stream Analytics](https://github.com/nikimanoledaki/data_stream_analytics)                            | A microservice for data streaming analytics built in a Docker container with Racecar, a gem that integrates Kafka and Rails. Each message from each node is processed every minute. Simple calculations on its values are logged into a Postgres database. |  1 week   |                 Ruby, Rails, Docker (container), Apache Kafka (data queue), Postgres (database), RSpec (testing), Ruboco (lint), SimpleCov (coverage)                  |
+| [Catbook](https://github.com/nikimanoledaki/acebook-catbook-inc)                                            |                                           A clone of Facebook, for cats. This RESTful API was created with Ruby on Rails, HTML, CSS, as well as agile practices such as stand-ups, retros, sprints, and Trello.                                            |  2 weeks  | Ruby, Ruby on Rails, CSS, Devise (user authentication), RSpec & Capybara (testing), Travis (CI/CD), Heroku (server), Rubocop (code quality), SimpleCov (test coverage) |
+| FinBot [API](https://github.com/nikimanoledaki/finbot-api) & [UI](https://github.com/nikimanoledaki/finbot) |                               My final project at Makers, a chatbot to improve financial literacy that answers questions about personal finance. We used React, Django, TensorFlow, and TravisCI, among other technologies.                                |  2 weeks  |                                          Python, Django (framework), unittest (testing), NLTK & TensorFlow (machine learning)                                          |
 
 ## Technologies & Skills
 
-**Languages:** Ruby, JavaScript, Python, CSS/HTML </br>
+**Languages:** Ruby, Go, JavaScript, Python, CSS/HTML </br>
 **Frameworks:** Ruby on Rails, Sinatra, Django, React</br>
 **Testing:** RSpec, Capybara, Jasmine, Jest, unittest</br>
-**Machine Learning:** TensorFlow, Jupyter Notebook</br>
 **Databases:** PostgreSQL</br>
 **Distributed Systems & Networking:** Apache Kafka, Git, Unix systems</br>
+**Machine Learning:** TensorFlow, Keras, Jupyter Notebook</br>
 **Deployment:** Travis CI, Heroku, AWS EC2, Docker
 
 #### Innovation
@@ -48,26 +47,12 @@ During the second group project at Makers, I realised that the group's commit hi
 
 I studied International Relations because I wanted to find solutions to global challenges. I realised that technology is a great vector for large-scale problem-solving. Similarly, programming is about solving microscale puzzles continuously.
 
-## Education
-
-**Makers Academy** (12/2019 to 3/2020)
-- Graduated from the Software Development course at Makers Academy.
-- Developed an industry-level technical and collaborative skillset through Test-Driven Development (TDD), Object-Oriented Design (OOD) SOLID principles, and XP/Agile methodologies.
-
-**King's College London** (9/2015 to 6/2019) </br>
-_BA (Hons) International Relations_
-
-- Wrote a dissertation about bias in machine learning through a case study of a hiring tool developed by Amazon that devalued women’s CVs.
-- Achieved the highest grade in my third-year Cybersecurity module on my case study essays on the spyware industry (80%).
-- Grade: 67% (High 2:1)
-
-**The London School of Economics and Political Science** (7/2019 to 8/2019) </br>
-_ME100 Introduction to Calculus_
-
-- Explored mathematical tools such as differentiation, optimization, and integration necessary for further study in statistics and data analysis.
-- Grade: 70% (First)
-
 ## Experience
+
+**Aviskr** (May 2019 to Aug 2019)</br>
+_UX/UI Designer_
+
+- Designed the user interface, flow, and journey for a data analytics start-up using Adobe Photoshop.
 
 **Boxwise** (11/2017 to 8/2018)  
 _Co-Founder_
@@ -83,8 +68,26 @@ _Distribution Manager_
 _Online Education Lead_
 
 - Sourced donated laptops then partnered with Coursera for Refugees to launch online education initiatives for people from displaced backgrounds residing at Elpida, a refugee camp in Northern Greece.
+  
+## Education
+
+**Makers Academy** (12/2019 to 3/2020)
+- Completed an intensive software engineering training course to develop industry-level skills such as test-driven development and agile methodologies while also learning computer science fundamentals, including object-oriented programming and algorithmic complexity.
+
+**King's College London** (9/2015 to 6/2019) </br>
+_BA (Hons) International Relations_
+
+- Wrote a dissertation about **bias in machine learning** through a case study of a hiring tool developed by Amazon that devalued women’s CVs.
+- Achieved the highest grade in my third-year **Cybersecurity** module on my case study essays on the spyware industry (80%).
+- Grade: 67% (High 2:1)
+
+**The London School of Economics and Political Science** (7/2019 to 8/2019) </br>
+_ME100 Introduction to Calculus_
+
+- Explored mathematical tools such as differentiation, optimization, and integration necessary for further study in statistics and data analysis.
+- Grade: 70% (First)
 
 ## Hobbies
 
 **Learning new languages.** Fluent in French, Greek, and English, studied Mandarin Chinese for 6 years, conversational in Spanish, learning Catalan.</br>
-**Attending Meetups** e.g. AI for Good, AI & JavaScript, London Gophers, Microsoft Reactor events
+**Attending Meetups** e.g. Codebar, AI for Good, AI & JavaScript, London Gophers, Microsoft Reactor events

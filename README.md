@@ -1,9 +1,10 @@
 ## Niki Manoledaki
 
-<a href="https://sourcerer.io/nikimanoledaki"><img src="https://img.shields.io/badge/Ruby-346%20commits-orange.svg" alt=""></a>
+<a href="https://sourcerer.io/nikimanoledaki"><img src="https://img.shields.io/badge/Ruby-355%20commits-orange.svg" alt=""></a>
 <a href="https://sourcerer.io/nikimanoledaki"><img src="https://img.shields.io/badge/JavaScript-191%20commits-orange.svg" alt=""></a>
 <a href="https://sourcerer.io/nikimanoledaki"><img src="https://img.shields.io/badge/CSS-161%20commits-orange.svg" alt=""></a> 
-<a href="https://sourcerer.io/nikimanoledaki"><img src="https://img.shields.io/badge/Python-74%20commits-orange.svg" alt=""></a>
+<a href="https://sourcerer.io/nikimanoledaki"><img src="https://img.shields.io/badge/Python-89%20commits-orange.svg" alt=""></a>
+<a href="https://sourcerer.io/nikimanoledaki"><img src="https://img.shields.io/badge/Go-39%20commits-orange.svg" alt=""></a>
 
 [Projects](#projects) | [Technologies & Skills](#technologies--skills) | [Education](#education) | [Experience](#experience) | [Hobbies](#hobbies) | [LinkedIn](https://www.linkedin.com/in/niki-manoledaki-9b505111b/) | [Blog](https://medium.com/@niki.manoledaki)
 

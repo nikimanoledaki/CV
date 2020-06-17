@@ -1,18 +1,18 @@
 ## Niki Manoledaki
 
-[Projects](#projects) | [Technologies & Skills](#technologies--skills) | [Education](#education) | [Experience](#experience) | [Hobbies](#hobbies) | [LinkedIn](https://www.linkedin.com/in/niki-manoledaki-9b505111b/) | [Medium](https://medium.com/@niki.manoledaki)
+[Projects](#projects) | [Technologies](#technologies) | [Education](#education) | [Experience](#experience) | [Skills](#skills) | [Hobbies](#hobbies) | [LinkedIn](https://www.linkedin.com/in/niki-manoledaki-9b505111b/) | [Medium](https://medium.com/@niki.manoledaki)
 
-I am a full-stack software engineer with experience using Ruby, Go, JavaScript, and Python to write high-quality code and build fully-tested services. I co-founded an open-source warehouse management application used in refugee camps because I am passionate about tech for good. I also have some experience with UX, cybersecurity, and machine learning. I graduated from Makers Academy and King’s College London.
+I am a full-stack software engineer with experience using Ruby, Go, JavaScript, and Python to write high-quality code and build fully-tested services. I co-founded an open-source warehouse management application used in refugee camps. I also have some experience with UX, cybersecurity, and machine learning. I graduated from Makers Academy and King’s College London.
 
 ## Projects
 
-| Name                                                                                                        |                                                                                                                        Description                                                                                                                         |                     Technology                      |
-| ----------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------: |
-| [Data stream analytics service](https://github.com/nikimanoledaki/data_stream_analytics)                    | A microservice for data streaming analytics built in a Docker container with Racecar, a gem that integrates Kafka and Rails. Each message from each node is processed every minute. Simple calculations on its values are logged into a Postgres database. | Ruby, Rails, Docker, Apache Kafka, Postgres, RSpec, |
-| [Contributor to Exercism](https://github.com/exercism/v3/pull/1663)                                         |                                                                          I mentor and contribute to the open-source project Exercism, a platform where people can learn to code.                                                                           |             Ruby, Ruby on Rails, Golang             |
-| FinBot [API](https://github.com/nikimanoledaki/finbot-api) & [UI](https://github.com/nikimanoledaki/finbot) |                               My final project at Makers, a chatbot to improve financial literacy that answers questions about personal finance. We used React, Django, TensorFlow, and TravisCI, among other technologies.                                |     Python, Django, unittest, NLTK, TensorFlow      |
+| Name                                                                                                                         |                                                                                                                        Description                                                                                                                         |                     Technology                      |
+| ---------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------: |
+| [Data stream analytics with Kafka](https://github.com/nikimanoledaki/data_stream_analytics)                                  | A microservice for data streaming analytics built in a Docker container with Racecar, a gem that integrates Kafka and Rails. Each message from each node is processed every minute. Simple calculations on its values are logged into a Postgres database. | Ruby, Rails, Docker, Apache Kafka, Postgres, RSpec, |
+| [Contributor to Exercism's Go path](https://github.com/exercism/v3/pull/1663)                                                |                                                                          I mentor and contribute to the open-source project Exercism, a platform where people can learn to code.                                                                           |             Ruby, Ruby on Rails, Golang             |
+| FinBot [Machine Learning API](https://github.com/nikimanoledaki/finbot-api) & [UI](https://github.com/nikimanoledaki/finbot) |                               My final project at Makers, a chatbot to improve financial literacy that answers questions about personal finance. We used React, Django, TensorFlow, and TravisCI, among other technologies.                                |     Python, Django, unittest, NLTK, TensorFlow      |
 
-## Technologies & Skills
+## Technologies
 
 **Languages:** Ruby, Go, JavaScript, Python, CSS/HTML </br>
 **Frameworks/Libraries:** Rails, Sinatra, Django, jQuery</br>
@@ -21,24 +21,6 @@ I am a full-stack software engineer with experience using Ruby, Go, JavaScript, 
 **Systems:** Apache Kafka, Git, Unix</br>
 **Machine Learning:** TensorFlow, Keras, Jupyter Notebook</br>
 **Deployment:** Travis CI, Heroku, AWS, Docker, Google Cloud Platform
-
-#### Innovation
-During the early days of Boxwise, I had to pitch our prototype at competitions and convince the judges that this was something worth investing in. I was a finalist for the **Change-Maker Award** from the King’s College Entrepreneurship Institute. My team also received the **European Youth Award** in the category Managing Life. These investments helped me start something I believe in.
-
-#### Self-Learning
-I am an avid and fast learner. I follow new books from publications such as O'Reilly and Manning closely and wrote a Medium article about [getting started with Machine Learning](https://medium.com/analytics-vidhya/machine-learning-for-beginners-84c23e090b18). In order to do this, I had to set up an AWS EC2 machine learning instance, through which I learned about Keras models and Jupyter notebooks.
-
-#### Communication && Teamwork
-
-During Makers, I came up with an idea for a **chatbot that teaches people about personal finance and uses machine learning** in the backend. It was based on the idea of empowering people through financial literacy. My peers and I formed a team and successfully made it happen. I am always there for my peers to listen and motivate them because I strongly stand by the conviction that, in a team, no one should be left behind.
-  
-I also enjoy speaking in public. For example, I pitched my idea for an automated inventory management tool for NGOs in front of hundreds of people and industry leaders at the **Techfugee Summit** at Station F in Paris in 2017, which is how I formed my team of open-source developers. People who felt moved by my speech came up to me after my pitch.
-
-#### Problem Solving
-
-During the second group project at Makers, I realised that the group's commit history was uneven. I proposed that we use a **git co-authoring tool** so that both people in a pair can receive credit.
-
-I studied International Relations because I wanted to find solutions to global challenges. I realised that technology is a great vector for large-scale problem-solving. Similarly, programming is about solving microscale puzzles continuously.
 
 ## Experience
 
@@ -80,6 +62,20 @@ _ME100 Introduction to Calculus_
 - Explored mathematical tools such as differentiation, optimization, and integration necessary for further study in statistics and data analysis.
 - Grade: 70% (First)
 
+## Skills
+
+#### Innovation & Creativity
+I co-created an original warehousing system to replace the traditional systems of organising donations in warehouses after a year of experience of working on the ground. During the early days of Boxwise, I had to pitch our prototype at competitions and present our original idea in front of judges and large audiences. I was a finalist for the **Change-Maker Award** from the King’s College Entrepreneurship Institute. My team also received the **European Youth Award** in the category Managing Life. 
+
+My current passion project is creating portfolio websites for people who are going into creative fields. For example, I created a portfolio website for a filmmaker and illustrator based in London, which you are welcome to visit [here](https://www.arisalazar.com). 
+
+#### Self-Learning
+I am curious, an avid reader and fast learner. I completed the MIT course `6.0001 on Introduction to Computer Science and Programming in Python` and am now following Kelsey Hightower's `Kubernetes the Hard Way` to learn more about containerisation and cloud computing. I read up on new publications from publishers such as O'Reilly and Manning and wrote a Medium article about [getting started with Machine Learning](https://medium.com/analytics-vidhya/machine-learning-for-beginners-84c23e090b18).
+
+#### Communication & Teamwork
+
+During Makers, I came up with an idea for a **chatbot that teaches people about personal finance and uses machine learning** in the backend. It was based on the idea of empowering people through financial literacy. My peers and I formed a team and successfully made it happen. I am always there for my peers to listen and motivate them because I strongly stand by the conviction that, in a team, no one should be left behind.
+  
 ## Hobbies
 
 **Learning new languages.** Fluent in French, Greek, and English, studied Mandarin Chinese for 6 years, conversational in Spanish, learning Catalan.</br>

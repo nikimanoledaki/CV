@@ -28,14 +28,12 @@ During the early days of Boxwise, I had to pitch our prototype at competitions a
 #### Self-Learning
 I am an avid and fast learner. I follow new books from publications such as O'Reilly and Manning closely and wrote a Medium article about [getting started with Machine Learning](https://medium.com/analytics-vidhya/machine-learning-for-beginners-84c23e090b18). In order to do this, I had to set up an AWS EC2 machine learning instance, through which I learned about Keras models and Jupyter notebooks.
 
-#### Communication
-
-I enjoy speaking in public. For example, I pitched my idea for an automated inventory management tool for NGOs in front of hundreds of people and industry leaders at the **Techfugee Summit** at Station F in Paris in 2017, which is how I formed my team of open-source developers. People who felt moved by my speech came up to me after my pitch.
-
-#### Teamwork
+#### Communication && Teamwork
 
 During Makers, I came up with an idea for a **chatbot that teaches people about personal finance and uses machine learning** in the backend. It was based on the idea of empowering people through financial literacy. My peers and I formed a team and successfully made it happen. I am always there for my peers to listen and motivate them because I strongly stand by the conviction that, in a team, no one should be left behind.
   
+I also enjoy speaking in public. For example, I pitched my idea for an automated inventory management tool for NGOs in front of hundreds of people and industry leaders at the **Techfugee Summit** at Station F in Paris in 2017, which is how I formed my team of open-source developers. People who felt moved by my speech came up to me after my pitch.
+
 #### Problem Solving
 
 During the second group project at Makers, I realised that the group's commit history was uneven. I proposed that we use a **git co-authoring tool** so that both people in a pair can receive credit.

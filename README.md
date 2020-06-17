@@ -1,32 +1,26 @@
 ## Niki Manoledaki
 
-<a href="https://sourcerer.io/nikimanoledaki"><img src="https://img.shields.io/badge/Ruby-355%20commits-orange.svg" alt=""></a>
-<a href="https://sourcerer.io/nikimanoledaki"><img src="https://img.shields.io/badge/JavaScript-191%20commits-orange.svg" alt=""></a>
-<a href="https://sourcerer.io/nikimanoledaki"><img src="https://img.shields.io/badge/CSS-161%20commits-orange.svg" alt=""></a> 
-<a href="https://sourcerer.io/nikimanoledaki"><img src="https://img.shields.io/badge/Python-89%20commits-orange.svg" alt=""></a>
-<a href="https://sourcerer.io/nikimanoledaki"><img src="https://img.shields.io/badge/Go-39%20commits-orange.svg" alt=""></a>
+[Projects](#projects) | [Technologies & Skills](#technologies--skills) | [Education](#education) | [Experience](#experience) | [Hobbies](#hobbies) | [LinkedIn](https://www.linkedin.com/in/niki-manoledaki-9b505111b/) | [Medium](https://medium.com/@niki.manoledaki)
 
-[Projects](#projects) | [Technologies & Skills](#technologies--skills) | [Education](#education) | [Experience](#experience) | [Hobbies](#hobbies) | [LinkedIn](https://www.linkedin.com/in/niki-manoledaki-9b505111b/) | [Blog](https://medium.com/@niki.manoledaki)
-
-I am a full-stack software engineer with experience using Ruby, JavaScript, and Python to write high-quality code and build fully-tested services. I co-founded an open-source warehouse management application used in refugee camps because I am passionate about tech for good. I also have some experience with UX, cybersecurity, and machine learning. I graduated from Makers Academy and King’s College London.
+I am a full-stack software engineer with experience using Ruby, Go, JavaScript, and Python to write high-quality code and build fully-tested services. I co-founded an open-source warehouse management application used in refugee camps because I am passionate about tech for good. I also have some experience with UX, cybersecurity, and machine learning. I graduated from Makers Academy and King’s College London.
 
 ## Projects
 
-| Name                                                                                                        |                                                                                                                        Description                                                                                                                         | Timeframe |                                                                               Technology                                                                               |
-| ----------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| [Data Stream Analytics](https://github.com/nikimanoledaki/data_stream_analytics)                            | A microservice for data streaming analytics built in a Docker container with Racecar, a gem that integrates Kafka and Rails. Each message from each node is processed every minute. Simple calculations on its values are logged into a Postgres database. |  1 week   |                 Ruby, Rails, Docker (container), Apache Kafka (data queue), Postgres (database), RSpec (testing), Ruboco (lint), SimpleCov (coverage)                  |
-| [Catbook](https://github.com/nikimanoledaki/acebook-catbook-inc)                                            |                                           A clone of Facebook, for cats. This RESTful API was created with Ruby on Rails, HTML, CSS, as well as agile practices such as stand-ups, retros, sprints, and Trello.                                            |  2 weeks  | Ruby, Ruby on Rails, CSS, Devise (user authentication), RSpec & Capybara (testing), Travis (CI/CD), Heroku (server), Rubocop (code quality), SimpleCov (test coverage) |
-| FinBot [API](https://github.com/nikimanoledaki/finbot-api) & [UI](https://github.com/nikimanoledaki/finbot) |                               My final project at Makers, a chatbot to improve financial literacy that answers questions about personal finance. We used React, Django, TensorFlow, and TravisCI, among other technologies.                                |  2 weeks  |                                          Python, Django (framework), unittest (testing), NLTK & TensorFlow (machine learning)                                          |
+| Name                                                                                                        |                                                                                                                        Description                                                                                                                         |                     Technology                      |
+| ----------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------: |
+| [Data stream analytics service](https://github.com/nikimanoledaki/data_stream_analytics)                    | A microservice for data streaming analytics built in a Docker container with Racecar, a gem that integrates Kafka and Rails. Each message from each node is processed every minute. Simple calculations on its values are logged into a Postgres database. | Ruby, Rails, Docker, Apache Kafka, Postgres, RSpec, |
+| [Contributor to Exercism](https://github.com/exercism/v3/pull/1663)                                         |                                                                          I mentor and contribute to the open-source project Exercism, a platform where people can learn to code.                                                                           |             Ruby, Ruby on Rails, Golang             |
+| FinBot [API](https://github.com/nikimanoledaki/finbot-api) & [UI](https://github.com/nikimanoledaki/finbot) |                               My final project at Makers, a chatbot to improve financial literacy that answers questions about personal finance. We used React, Django, TensorFlow, and TravisCI, among other technologies.                                |     Python, Django, unittest, NLTK, TensorFlow      |
 
 ## Technologies & Skills
 
 **Languages:** Ruby, Go, JavaScript, Python, CSS/HTML </br>
-**Frameworks:** Ruby on Rails, Sinatra, Django, React</br>
-**Testing:** RSpec, Capybara, Jasmine, Jest, unittest</br>
+**Frameworks/Libraries:** Rails, Sinatra, Django, jQuery</br>
+**Testing:** RSpec, Capybara, Jasmine</br>
 **Databases:** PostgreSQL</br>
-**Distributed Systems & Networking:** Apache Kafka, Git, Unix systems</br>
+**Systems:** Apache Kafka, Git, Unix</br>
 **Machine Learning:** TensorFlow, Keras, Jupyter Notebook</br>
-**Deployment:** Travis CI, Heroku, AWS EC2, Docker
+**Deployment:** Travis CI, Heroku, AWS, Docker, Google Cloud Platform
 
 #### Innovation
 During the early days of Boxwise, I had to pitch our prototype at competitions and convince the judges that this was something worth investing in. I was a finalist for the **Change-Maker Award** from the King’s College Entrepreneurship Institute. My team also received the **European Youth Award** in the category Managing Life. These investments helped me start something I believe in.
@@ -91,4 +85,5 @@ _ME100 Introduction to Calculus_
 ## Hobbies
 
 **Learning new languages.** Fluent in French, Greek, and English, studied Mandarin Chinese for 6 years, conversational in Spanish, learning Catalan.</br>
-**Attending Meetups** e.g. Codebar, AI for Good, AI & JavaScript, London Gophers, Microsoft Reactor events
+**Attending Meetups** e.g. Codebar, AI for Good, AI & JavaScript, London Gophers, Microsoft Reactor events</br>
+**Literary fiction, biking, and yoga.**
